@@ -43,15 +43,15 @@ export PATH=$HOME/go/bin:$PATH
 ## 📂 Setup
 Clone the repository and navigate into it:
 ```bash
-git clone https://github.com/yourusername/bounty_recon_tool.git
-cd bounty_recon_tool
-chmod +x bounty_recon.sh
+git clone https://github.com/yourusername/recon_tool.git
+cd recon_tool
+bash recon_tool.sh
 ```
 
 ## 🔥 Usage
 Run the script with a target domain:
 ```bash
-./bounty_recon.sh example.com
+bash recon_tool.sh example.com
 ```
 
 ## 📜 Output
